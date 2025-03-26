@@ -28,7 +28,7 @@
               class="header__logo-img"
             />
           </div>
-          <span class="header__logo-sub">Rudi Herouard</span>
+          <span class="header__logo-sub">Rudicito</span>
         </div>
         <div class="header__main">
           <ul class="header__links">
@@ -83,10 +83,10 @@
     </header>
     <section class="home-hero">
       <div class="home-hero__content">
-        <h1 class="heading-primary">Bonjour, je suis Rudi Herouard</h1>
+        <h1 class="heading-primary">Bonjour, c'est Rudi</h1>
         <div class="home-hero__info">
           <p class="text-primary">
-            Fan d'informatique, qui essaye de faire des trucs bien !
+            Toujours sur l'ordi
           </p>
         </div>
         <div class="home-hero__cta">
@@ -160,26 +160,24 @@
       <div class="main-container">
         <h2 class="heading heading-sec heading-sec__mb-med">
           <span class="heading-sec__main">À propos de moi</span>
-          <span class="heading-sec__sub">
-            Ici, vous trouverez des informations sur moi, sur ce que je fais, et sur mes compétences en développement
-          </span>
+<!--          <span class="heading-sec__sub">-->
+<!--            ↓-->
+<!--          </span>-->
         </h2>
         <div class="about__content">
           <div class="about__content-main">
             <h3 class="about__content-title">Moi !</h3>
             <div class="about__content-details">
               <p class="about__content-details-para">
-                Bonjour, je suis <strong>Rudi Herouard</strong>, je suis actuellement étudiant en première année
-                d'un BTS SIO option SLAM.
-                J'habite en France, vers Fontainebleau, proche de Paris,
-                et je souhaite être un futur <strong>Développeur</strong> !
+                Bonjour, je suis <strong>Rudi Herouard</strong>, j'ai 19 ans. Je suis actuellement étudiant en première année
+                d'un BTS SIO SLAM.
+                J'habite en France, vers Fontainebleau/Melun, proche de Paris.
+                La seule chose qui m'intéresse vraiment c'est <strong>l'informatique</strong>.
               </p>
               <p class="about__content-details-para">
-                Depuis que je suis petit, j'ai toujours été passionné d'informatique
-                que ce soit en découvrant le fonctionnement des ordinateurs,
-                en bidouillant des logiciels ou en créant des petits programmes.
-                Cette passion m'a naturellement conduit vers le développement, un domaine où je peux allier
-                logique et optimisation.
+                Je suis, et depuis petit dans l'informatique. Quand je rentre chez-moi, je vais sur mon ordi trouver quelque
+                chose à faire. Je pense vouloir être développeur, car ça me semble le seul métier qui me correspond,
+                seul métier que je sens pouvoir faire.
               </p>
             </div>
             <a href="#contact" class="btn btn--med btn--theme dynamicBgClr"
@@ -187,18 +185,17 @@
             >
           </div>
           <div class="about__content-skills">
-            <h3 class="about__content-title">Mes Skills</h3>
+            <h3 class="about__content-title">Skills</h3>
             <div class="skills">
-              <div class="skills__skill">Python</div>
-              <div class="skills__skill">HTML</div>
-              <div class="skills__skill">CSS</div>
-              <div class="skills__skill">JavaScript</div>
-              <div class="skills__skill">C</div>
               <div class="skills__skill">C#</div>
+              <div class="skills__skill">C</div>
+              <div class="skills__skill">Python</div>
+              <div class="skills__skill">Linux</div>
+              <div class="skills__skill">Terminal</div>
               <div class="skills__skill">GIT</div>
               <div class="skills__skill">Github</div>
-              <div class="skills__skill">Terminal</div>
-              <div class="skills__skill">Linux</div>
+              <div class="skills__skill">HTML/CSS</div>
+              <div class="skills__skill">JavaScript</div>
             </div>
           </div>
         </div>
@@ -226,10 +223,11 @@
             <div class="projects__row-content">
               <h3 class="projects__row-content-title">Tank télécommandé</h3>
               <p class="projects__row-content-desc">
-                Au lycée dans notre club informatique, nous avons réalisé un tank télécommandé.
-                Il est composé d'un Arduino, 4 moteurs, d'une enceinte, et d'un module bluetooth.
-                Le tank peut se controller à distance par un téléphone grâce au module bluetooth et au code en C++ de l'Arduino.
-                Il peut également jouer de la musique avec l'enceinte.
+                Au lycée dans notre club informatique, on a réalisé un tank télécommandé.
+                On l'a fait avec un Arduino, 4 moteurs pour chaque roue, une enceinte pour la musique, et un module bluetooth pour le controller.
+                On le contrôle avec le téléphone en bluetooth grâce au code en C++ de l'Arduino et le module bluetooth évidemment.
+                On la finit vraiment au dernier moment.
+                Je me rappelle essayé de faire fonctionner l'enceinte avec l'Arduino dans le bus (héhé).
               </p>
 <!--              <a-->
 <!--                href="./project-1.html"-->
@@ -251,9 +249,14 @@
             <div class="projects__row-content">
               <h3 class="projects__row-content-title">DOOM sur la calculatrice HP Prime</h3>
               <p class="projects__row-content-desc">
-                C'est un port de DOOM, jeu sorti en 1993, écrit en Python, qui fonctionne sur la calculatrice HP Prime.
-                Ce code est basée sur un projet de portage du jeu en Python sur PC (à la base en C). Il a fallu réadapter le code
-                pour utiliser les librairies limité de la calculatrice.
+                C'est un port de DOOM, jeu sorti en 1993, écrit en Python, qui tourne sur la calculatrice HP Prime.
+                DOOM est à l'origine en C, donc j'ai dû prendre un code de quelqu'un trop fort et déterminé qui l'a refait en python,
+                et utilise les fichiers d'origine du jeu (fichiers WAD).
+                Le problème, c'est que ce code utilise une librairie seulement sur ordinateur (pygame), donc il a fallu
+                faire pas mal de changement pour utiliser les librairies limité de la calculatrice. Ce qui était démotivant,
+                c'est que je devais faire beaucoup de changement de code pour avoir un début de résultat (affichage des textures du jeu dans le buffer),
+                mais j'ai réussi :). Le nombre d'fps que j'ai eu sur machine réel (pas émulateur), était moins de 1 :(.
+                Si j'ai le temps et envie, peut-être que je reprendrai le code pour l'optimiser et gagner 1, 2 ou même 3 fps ?
               </p>
               <a
                 href="https://github.com/Rudicito/HP-DOOM"
@@ -271,7 +274,7 @@
         <h2 class="heading heading-sec">
           <span class="heading-sec__main heading-sec__main--lt">Contact</span>
           <span class="heading-sec__sub heading-sec__sub--lt">
-            Vous pouvez me contacter par mail : <strong><a href="mailto:rudi.herouard@gmail.com">rudi.herouard@gmail.com</a></strong>
+            Vous pouvez m'envoyer un mail ici : <strong><a href="mailto:rudi.herouard@gmail.com">rudi.herouard@gmail.com</a></strong>
           </span>
         </h2>
       </div>
@@ -338,7 +341,8 @@
 
         <!-- If you give me some credit or shoutout here by linking to my website, then it will be a big thing for me and will help me a lot :) -->
         <div class="main-footer__lower">
-          Site par <a href="https://github.com/rudicito/rudicito.github.io">moi</a>, basé sur <a href="https://github.com/rammcodes/Dopefolio">Dopefolio</a>
+          Site par <a href="https://github.com/rudicito/rudicito.github.io">moi</a>, basé sur <a href="https://github.com/rammcodes/Dopefolio">Dopefolio</a><br>
+          Image de l'accueil par quelqu'un de doué sur <a href="https://www.reddit.com/r/oneshot/comments/iem9tw/i_made_a_wallpaper_for_anyone_download_in_the/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button/Dopefolio">Reddit</a>
         </div>
       </div>
     </footer>
