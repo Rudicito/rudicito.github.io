@@ -1,0 +1,82 @@
+---
+---
+
+body{
+  font-family: "monospace";
+  background-color: #101010;
+  color: white;
+  margin: 0;
+}
+
+main{
+  box-sizing: border-box; // Ensure that the padding is include in the width
+
+  background-color: black;
+  width: 100%;
+  max-width: 45em; // 40
+  margin: 0 auto;
+  padding: 1em;
+  overflow: hidden;
+}
+
+main img {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+
+nav ul{
+  list-style: none;
+  padding: 0 0 0 1em;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 2em;
+  row-gap: 0.5em;
+}
+
+nav ul li{
+  text-decoration: underline;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  grid-gap: 1rem;
+  margin-bottom: 11rem;
+}
+
+div.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 0.5em;
+}
+
+div.project {
+  max-width: 20em;
+  >a {
+    display: block;
+    text-decoration: none;
+    //padding-block-end: 1px;
+  }
+  figure{
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  p, figcaption {
+    //padding: 0 2ch;
+    margin-top: 0.5em;
+  }
+  p{
+    text-align: center;
+  }
+}
+
+a{
+  color: inherit; 
+}
+
+a:hover{
+  background-color: white;
+  color: black;
+}
