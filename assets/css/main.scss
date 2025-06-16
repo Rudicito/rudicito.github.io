@@ -3,9 +3,11 @@
 
 body{
   font-family: "monospace";
-  background-color: #101010;
   color: white;
   margin: 0;
+  background-color: #101010;
+  animation: backgroundShift 10s infinite alternate;
+
 }
 
 main{
@@ -17,6 +19,15 @@ main{
   margin: 0 auto;
   padding: 1em;
   overflow: hidden;
+}
+
+@keyframes backgroundShift {
+  0% {
+    background-color: #101010;
+  }
+  100% {
+    background-color: #141422;
+  }
 }
 
 main img {
