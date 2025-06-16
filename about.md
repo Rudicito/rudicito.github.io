@@ -5,7 +5,7 @@ title: "about"
 
 # about me
 
-**Look at my GitHub [here](https://github.com/Rudicito)!**
+## Look at my GitHub [here](https://github.com/Rudicito)!
 
 Hello, I'm **Rudi Herouard**, and I'm 19. I'm currently a first-year student in BTS SIO SLAM (a French technical IT degree program). I live in **France**, near **Paris**.
 
