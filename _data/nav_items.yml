@@ -1,0 +1,14 @@
+en:
+  - label: home
+    path: /en
+  - label: about
+    path: /en/about
+  - label: projects
+    path: /en/projects
+fr:
+  - label: accueil
+    path: /fr
+  - label: à propos de moi
+    path: /fr/about
+  - label: projets
+    path: /fr/projects

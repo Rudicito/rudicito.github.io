@@ -1,7 +1,12 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign nav_items = site.data.nav_items[lang] %}
+
 <nav>
   <ul>
-    <li><a href="/index">home</a></li>
-    <li><a href="/about">about</a></li>
-    <li><a href="/projects">projects</a></li>
+    {% for item in nav_items %}
+      <li>
+        <a href="{{ item.path }}">{{ item.label }}</a>
+      </li>
+    {% endfor %}
   </ul>
 </nav>

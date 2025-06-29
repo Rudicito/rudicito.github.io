@@ -3,7 +3,50 @@ url: "https://rudicito.github.io" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "rudicito" # the name of your site, e.g. ACME Corp.
 
+language_default: en
+
+collections_dir: content
 collections:
-  projects:
+  fr:
     output: true
-    permalink: /projects/:path/
+    permalink: /fr/:slug
+  fr_projects:
+    output: true
+    permalink: /fr/projects/:slug
+  en:
+    output: true
+    permalink: /en/:slug
+  en_projects:
+    output: true
+    permalink: /en/projects/:slug
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "fr"
+    values:
+      layout: "default"
+      lang: "fr"
+  - scope:
+      path: "_fr/projects"
+    values:
+      layout: "projects"
+      permalink: /fr/projects/:slug
+      lang: "fr"
+  - scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "default"
+      lang: "en"
+  - scope:
+      path: "_en/projects"
+    values:
+      layout: "projects"
+      permalink: /en/projects/:slug
+      lang: "en"
