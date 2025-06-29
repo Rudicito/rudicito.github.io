@@ -6,8 +6,6 @@ title: "home"
 
 Welcome to my website!! 
 
-You can know me better by going in the about page or in my projects page !
+To learn more about me, visit the "about me" or "projects" pages in the menu at the top of the page.
 
-This website use [Jekyll](https://jekyllrb.com/). You can see the source files [here](https://github.com/Rudicito/rudicito.github.io)!
-
-![madotsuki-chair](/assets/img/madotsuki-chair.gif)
+This website uses [Jekyll](https://jekyllrb.com/). You can see the source files [here](https://github.com/Rudicito/rudicito.github.io)!

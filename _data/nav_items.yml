@@ -8,7 +8,7 @@ en:
 fr:
   - label: accueil
     path: /fr
-  - label: à propos de moi
+  - label: à propos
     path: /fr/about
   - label: projets
     path: /fr/projects
