@@ -1,5 +1,4 @@
 ---
-layout: projects
 title: "Remote-Controlled Tank"
 image: "/assets/img/projects/tank.jpg"
 ---

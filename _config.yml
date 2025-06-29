@@ -26,6 +26,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
   - scope:
       path: ""
       type: "fr"
@@ -33,11 +34,12 @@ defaults:
       layout: "default"
       lang: "fr"
   - scope:
-      path: "_fr/projects"
+      path: ""
+      type: "fr_projects"
     values:
       layout: "projects"
-      permalink: /fr/projects/:slug
       lang: "fr"
+
   - scope:
       path: ""
       type: "en"
@@ -45,8 +47,8 @@ defaults:
       layout: "default"
       lang: "en"
   - scope:
-      path: "_en/projects"
+      path: ""
+      type: "en_projects"
     values:
       layout: "projects"
-      permalink: /en/projects/:slug
       lang: "en"

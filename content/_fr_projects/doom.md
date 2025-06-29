@@ -1,5 +1,4 @@
 ---
-layout: projects
 title: "DOOM sur la calculatrice HP Prime"
 image: "/assets/img/projects/doom.png"
 ---

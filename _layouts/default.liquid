@@ -9,7 +9,9 @@
   </head>
   <body>
     <main>
-      {% include nav.liquid %}
+      {% unless page.nav == false %}
+        {% include nav.liquid %}
+      {% endunless %}
       {{ content }}
     </main>
     <script src="{{ "/assets/js/oneko.js" | relative_url }}" data-cat="/assets/js/oneko.gif"></script>
