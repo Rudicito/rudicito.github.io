@@ -28,7 +28,7 @@ Ma première distribution linux était [Pop!_OS](https://system76.com/pop/), j'a
 Sur Fedora, mon [environnement de bureau](https://fr.wikipedia.org/wiki/Environnement_de_bureau) (l'interface graphique, systèmes de fenêtre etc) était d'abord [GNOME](https://www.gnome.org/), mais je suis passé à [Sway](https://swaywm.org/), puis récemment à [Hyprland](https://hypr.land/).
 
 ## code
-J'utilise les logiciels de la suite [JetBrains](https://www.jetbrains.com/) pour coder, parce que j'aime beaucoup l'interface et comment les aides au code sont "intelligentes". Aussi, j'aime comment l'interface **[git](https://git-scm.com/)** est facile à utiliser.
+J'utilise les logiciels de la suite [JetBrains](https://www.jetbrains.com/) pour coder, parce que j'aime beaucoup l'interface et comment les aides au code sont "intelligentes". Aussi, j'aime comment l'interface **[Git](https://git-scm.com/)** est facile à utiliser.
 
 Pour les langages moins connus qui ne sont pas supporté par JetBrains, j'utilise [VSCode](https://code.visualstudio.com/).
 
