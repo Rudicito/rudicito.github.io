@@ -10,3 +10,5 @@ DOOM est à l'origine en C, donc j'ai dû prendre un code de quelqu'un trop fort
 Le problème, c'est que ce code utilise une librairie seulement sur ordinateur (pygame), donc il a fallu faire pas mal de changement pour utiliser les librairies limitées de la calculatrice. 
 
 Ce qui était démotivant, c'est que je devais faire beaucoup de changement de code pour avoir un début de résultat (affichage des textures du jeu dans le buffer), mais j'ai réussi :).
+
+### Code source sur GitHub [ici](https://github.com/Rudicito/HP-DOOM)!
