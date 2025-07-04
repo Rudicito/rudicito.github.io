@@ -1,5 +1,5 @@
 ---
-title: Gitaroo, un ruleset osu! custom basé sur le jeu Gitaroo Man
+title: Gitaroo, un ruleset osu! custom
 image: "/assets/img/projects/gitaroo.png"
 ---
 
