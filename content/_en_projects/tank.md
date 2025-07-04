@@ -1,9 +1,9 @@
 ---
-title: "Remote-Controlled Tank"
+title: "Remote-Controlled mini tank via phone"
 image: "/assets/img/projects/tank.jpg"
 ---
 
-In high school, in our computer club, we built a remote-controlled tank. 
+In high school, in our computer club, we built a remote-controlled mini tank. 
 
 We built it using an Arduino, 4 motors for the wheels, a speaker for music, and a Bluetooth module for control.
 

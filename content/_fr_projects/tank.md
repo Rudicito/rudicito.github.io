@@ -1,9 +1,9 @@
 ---
-title: "Tank télécommandé"
+title: "Tank miniature télécommandé par téléphone"
 image: "/assets/img/projects/tank.jpg"
 ---
 
-Au lycée dans notre club informatique, on a réalisé un tank télécommandé. 
+Au lycée dans notre club informatique, on a réalisé un tank miniature télécommandé. 
 
 On l'a fait avec un Arduino, 4 moteurs pour chaque roue, une enceinte pour la musique, et un module bluetooth pour le controller.
 

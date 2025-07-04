@@ -1,9 +1,5 @@
 <!-- _includes/row.liquid -->
-<div class="project">
-  <a href="{{ include.link }}">
-    <figure>
-      <img src="{{ include.image }}" alt="{{ include.image_alt }}">
-      <figcaption><p>{{ include.title }}</p></figcaption>
-    </figure>
-  </a>
-</div>
+<a href="{{ include.link }}" class="project">
+  <h3>{{ include.title }}</h3>
+  <img src="{{ include.image }}" alt="{{ include.image_alt }}">
+</a>

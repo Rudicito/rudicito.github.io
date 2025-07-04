@@ -31,8 +31,9 @@ main{
 }
 
 main img {
-  display: inline-block;
-  width: 100%;
+  display: block;
+  margin: 0 auto;
+  width: 70%;
   height: auto;
 }
 
@@ -60,26 +61,27 @@ div.grid{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  gap: 0.5em;
+  gap: 1em;
 }
 
-div.project {
+.project {
+  text-decoration: none;
   max-width: 20em;
-  >a {
-    display: block;
-    text-decoration: none;
-    //padding-block-end: 1px;
-  }
-  figure{
-    margin-left: 1em;
-    margin-right: 1em;
-  }
-  p, figcaption {
-    //padding: 0 2ch;
-    margin-top: 0.5em;
-  }
-  p{
+  height: 17em;
+  padding: 0.5em;
+  overflow: hidden;
+  
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
     text-align: center;
+    height: 3em;
+    overflow: hidden;
+  }
+  img {
+    display: inline-block;
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -87,7 +89,7 @@ a{
   color: inherit; 
 }
 
-a:hover{
+a:hover, div.project:hover{
   background-color: white;
   color: black;
 }
