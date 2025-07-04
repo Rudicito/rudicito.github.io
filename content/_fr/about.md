@@ -12,10 +12,10 @@ Les jobs qui m'intéressent sont seulement ceux liés à l'**informatique**. Ce 
 
 Voici les langages de programmation et les logiciels pour lesquels je me sens compétent :
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,php,github,git,linux,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,php,github,git,linux&theme=dark)](https://skillicons.dev)
 
 <p style="text-align:center">
-    C# - Python - PHP - GitHub - Git - Linux - HTML - CSS
+    C# - Python - PHP - GitHub - Git - Linux
 </p>
 
 ## linux
