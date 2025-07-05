@@ -1,6 +1,6 @@
 ---
 title: Gitaroo, a custom osu! ruleset
-image: "/assets/img/projects/gitaroo.png"
+image: "gitaroo.png"
 ---
 
 This project is still a work in progress. It aims to bring back the gameplay of [Gitaroo Man](https://en.wikipedia.org/wiki/Gitaroo_Man), a rhythm game originally released in 2001, in [osu!](https://osu.ppy.sh/).

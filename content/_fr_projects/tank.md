@@ -1,6 +1,6 @@
 ---
 title: "Tank miniature télécommandé par téléphone"
-image: "/assets/img/projects/tank.jpg"
+image: "tank.jpg"
 ---
 
 Au lycée dans notre club informatique, on a réalisé un tank miniature télécommandé. 

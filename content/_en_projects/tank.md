@@ -1,6 +1,6 @@
 ---
 title: "Remote-Controlled mini tank via phone"
-image: "/assets/img/projects/tank.jpg"
+image: "tank.jpg"
 ---
 
 In high school, in our computer club, we built a remote-controlled mini tank. 

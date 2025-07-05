@@ -1,6 +1,6 @@
 ---
 title: "DOOM sur la calculatrice HP Prime"
-image: "/assets/img/projects/doom.png"
+image: "doom.png"
 ---
 
 C'est un port de [DOOM](https://fr.wikipedia.org/wiki/Doom_(jeu_vid%C3%A9o,_1993)), jeu sorti en 1993, écrit en Python, qui tourne sur la calculatrice [HP Prime](https://fr.wikipedia.org/wiki/HP_Prime). 
