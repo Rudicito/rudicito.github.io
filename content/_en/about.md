@@ -2,7 +2,7 @@
 title: "about"
 ---
 
-# about me
+# about
 
 ## Find my GitHub [here](https://github.com/Rudicito)!
 
