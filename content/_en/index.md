@@ -2,9 +2,9 @@
 title: "home"
 ---
 
-# hi!
+# hello!
 
-Welcome to my website!! 
+Welcome to my website!
 
 To learn more about me, visit the [about](/en/about) page, or check out the [projects](/en/projects) page to see my personal projects.
 
