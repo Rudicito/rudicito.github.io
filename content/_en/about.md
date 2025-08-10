@@ -12,10 +12,10 @@ The jobs that interest me are those related to **IT**. These are the positions t
 
 Here are the things I feel competent:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,php,github,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,php,github,git,linux,html,css,js&theme=dark)](https://skillicons.dev)
 
 <p style="text-align:center">
-    C# - Python - PHP - GitHub - Git - Linux
+    C# - Python - PHP - GitHub - Git - Linux - HTML - CSS - JavaScript
 </p>
 
 ## linux
