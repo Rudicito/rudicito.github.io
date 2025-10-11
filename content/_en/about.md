@@ -6,7 +6,7 @@ title: "about"
 
 ## Find my GitHub [here](https://github.com/Rudicito)!
 
-Hello, I'm **Rudi Herouard**, and I'm 19. I'm currently a second-year student in BTS SIO SLAM (a French technical IT degree program). I live in **France**, near **Paris**.
+Hello, I'm **Rudi Herouard**, and I'm 20. I'm currently a second-year student in BTS SIO SLAM (a French technical IT degree program). I live in **France**, near **Paris**.
 
 The jobs that interest me are those related to **IT**. These are the positions that will motivate me and where I will feel in my element.
 

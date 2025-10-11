@@ -6,7 +6,7 @@ title: "à propos"
 
 ## Retrouvez mon GitHub [ici](https://github.com/Rudicito)!
 
-Bonjour, je suis **Rudi Herouard**, j'ai 19 ans. Je suis actuellement étudiant en deuxième année d'un BTS SIO SLAM (un BTS d'informatique). J'habite en **France**, proche de **Paris**.
+Bonjour, je suis **Rudi Herouard**, j'ai 20 ans. Je suis actuellement étudiant en deuxième année d'un BTS SIO SLAM (un BTS d'informatique). J'habite en **France**, proche de **Paris**.
 
 Les jobs qui m'intéressent sont seulement ceux liés à l'**informatique**. Ce sont les postes qui me motiveront et dans lesquels je me sentirais à ma place.
 
