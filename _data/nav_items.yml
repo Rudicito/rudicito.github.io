@@ -5,6 +5,8 @@ en:
     path: /en/about
   - label: projects
     path: /en/projects
+  - label: veille
+    path: /veille
 fr:
   - label: accueil
     path: /fr
@@ -12,3 +14,5 @@ fr:
     path: /fr/about
   - label: projets
     path: /fr/projects
+  - label: veille
+    path: /veille

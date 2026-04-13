@@ -1,5 +1,5 @@
-domain: "rudicito.github.io"
-url: "https://rudicito.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "rudi.cito.sh"
+url: "https://rudi.cito.sh" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "rudicito" # the name of your site, e.g. ACME Corp.
     
@@ -33,6 +33,9 @@ collections:
   en_projects:
     output: true
     permalink: /en/projects/:slug
+  veille:
+    output: true
+    permalink: /veille/:slug
 
 defaults:
   - scope:

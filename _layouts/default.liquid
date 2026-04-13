@@ -15,5 +15,10 @@
       {{ content }}
     </main>
     <script src="{{ "/assets/js/oneko.js" | relative_url }}" data-cat="/assets/js/oneko.gif"></script>
+    {% if page.scripts %}
+      {% for script in page.scripts %}
+        <script src="{{ script | relative_url }}"></script>
+      {% endfor %}
+    {% endif %}
   </body>
 </html>
