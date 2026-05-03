@@ -17,7 +17,7 @@ exclude:
   - LICENSE
   - scripts/
 
-language_default: en
+language_default: fr
 
 collections_dir: content
 collections:
@@ -27,12 +27,12 @@ collections:
   fr_projects:
     output: true
     permalink: /fr/projects/:slug
-  en:
-    output: true
-    permalink: /en/:slug
-  en_projects:
-    output: true
-    permalink: /en/projects/:slug
+#  en:
+#    output: true
+#    permalink: /en/:slug
+#  en_projects:
+#    output: true
+#    permalink: /en/projects/:slug
   veille:
     output: true
     permalink: /veille/:slug
@@ -57,18 +57,18 @@ defaults:
       layout: "projects"
       lang: "fr"
 
-  - scope:
-      path: ""
-      type: "en"
-    values:
-      layout: "default"
-      lang: "en"
-  - scope:
-      path: ""
-      type: "en_projects"
-    values:
-      layout: "projects"
-      lang: "en"
+#  - scope:
+#      path: ""
+#      type: "en"
+#    values:
+#      layout: "default"
+#      lang: "en"
+#  - scope:
+#      path: ""
+#      type: "en_projects"
+#    values:
+#      layout: "projects"
+#      lang: "en"
 
   - scope:
       path: ""

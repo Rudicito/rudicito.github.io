@@ -6,3 +6,26 @@ layout: default
 <img src="/assets/img/projects/{{ page.image }}" alt="{{ page.title }}">
 
 {{ page.content }}
+
+{% if page.comps %}
+    <h3>Compétences mobilisées :</h3>
+
+    <ul>
+        {% for comp in page.comps %}
+            {% case comp %}
+                {% when "patrimoine" %}
+                    <li>Gérer le patrimoine informatique</li>
+                {% when "incidents" %}
+                    <li>Répondre aux incidents et aux demandes d'assistance et d'évolution</li>
+                {% when "presence" %}
+                    <li>Développer la présence en ligne de l'organisation</li>
+                {% when "projet" %}
+                    <li>Travailler en mode projet</li>
+                {% when "disposition" %}
+                    <li>Mettre à disposition des utilisateurs un service informatique</li>
+                {% when "orga" %}
+                    <li>Organiser son développement professionnel</li>
+            {% endcase %}
+        {% endfor %}
+    </ul>
+{% endif %}
