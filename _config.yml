@@ -69,3 +69,10 @@ defaults:
     values:
       layout: "projects"
       lang: "en"
+
+  - scope:
+      path: ""
+      type: "veille"
+    values:
+      layout: "default"
+      lang: "fr"
