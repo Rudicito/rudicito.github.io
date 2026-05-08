@@ -33,5 +33,5 @@ Pour la partie serveur :
 - [Entity Framework](https://en.wikipedia.org/wiki/Entity_Framework) : un framework open source qui relie
     le programme à la base de données.
 
-- [MariaDB](https://en.wikipedia.org/wiki/MariaDB) : une base de données relationnelle pour stocker les
-  comptes, les produits et les commandes.
+- [MariaDB](https://en.wikipedia.org/wiki/MariaDB) : une base de données relationnelle pour stocker les données pour 
+  la médiathèque
