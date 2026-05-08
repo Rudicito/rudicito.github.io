@@ -24,9 +24,9 @@ collections:
   fr:
     output: true
     permalink: /fr/:slug
-  fr_projects:
+  fr_realisations:
     output: true
-    permalink: /fr/projects/:slug
+    permalink: /fr/realisations/:slug
 #  en:
 #    output: true
 #    permalink: /en/:slug
@@ -52,7 +52,7 @@ defaults:
       lang: "fr"
   - scope:
       path: ""
-      type: "fr_projects"
+      type: "fr_realisations"
     values:
       layout: "projects"
       lang: "fr"

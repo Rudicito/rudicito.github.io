@@ -12,7 +12,7 @@ fr:
     path: /fr
   - label: à propos
     path: /fr/about
-  - label: projets
-    path: /fr/projects
+  - label: réalisations
+    path: /fr/realisations
   - label: veille
     path: /veille
