@@ -4,36 +4,28 @@ title: "about"
 
 # about
 
-## Find my GitHub [here](https://github.com/Rudicito)!
+## GitHub [here](https://github.com/Rudicito)!
 
-Hello, I'm **Rudi Herouard**, and I'm 20. I'm currently a second-year student in BTS SIO SLAM (a French technical IT degree program). I live in **France**, near **Paris**.
+Hi! I'm Rudi Herouard, I'm 21. I like programming and I like [osu!](https://osu.ppy.sh/) :3
 
-The jobs that interest me are those related to **IT**. These are the positions that will motivate me and where I will feel in my element.
+Here are the things I feel kinda competent:
 
-Here are the things I feel competent:
-
-[![My Skills](https://skillicons.dev/icons?i=cs,java,py,rust,php,github,git,linux,html,css,js&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,py,github,git,linux,html,css,js&perline=8)](https://skillicons.dev)
 
 <p style="text-align:center">
-    (C#, Java, Python, Rust, PHP, GitHub, Git, Linux, HTML, CSS, JavaScript)
+    (C#, PHP, Python, GitHub, Git, Linux, HTML, CSS, JavaScript)
 </p>
 
 ## linux
-For 3 years, I've daily-driven **Linux**, on my laptop, and stopped using **Windows**.
-
-My first distro was [PopOS](https://system76.com/pop/), tried some others, and finally switch to [Fedora](https://fedoraproject.org/).
-
-In Fedora, my desktop was originally [GNOME](https://www.gnome.org/), but I switched to [Sway](https://swaywm.org/) and recently to [Hyprland](https://hypr.land/).
+I'm on Linux yay, on [Fedora](https://fedoraproject.org/), with [Hyprland](https://hypr.land/) desktop, with all 
+animations deactivate even though that is the goal of Hyprland to be good-looking :3
 
 ## code
-The main software I use for coding is [JetBrains](https://www.jetbrains.com/) apps, because I like the interface and how "smart" the hints are. Also, I like how the **[Git](https://git-scm.com/)** interface is easy to use.
-
-For more obscure languages not supported by JetBrains, I use [VSCode](https://code.visualstudio.com/).
+I do everything with [JetBrains](https://www.jetbrains.com/) apps, I like the interface and the GIT integration (I 
+still don't know the cli commands...)
 
 ## hardware
-I only use a laptop for working/playing: [Framework Laptop 13](https://frame.work/laptop13):
+I have a [Framework Laptop 13](https://frame.work/laptop13), yay!
 - CPU: AMD Ryzen 5 7640U
 - RAM: 32gb DDR5
 - Storage: 1 tb
-
-I chose this laptop because it's powerful, easy to repair, and upgradeable (for example, I can replace the screen with a better one).
